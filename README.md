@@ -124,5 +124,3 @@ pip install pandas numpy mysql-connector-python
 5. View the **report and presentation** included in the repository
 
 
-If you want, I can also give you a **GitHub repository title**, **folder structure**, or a **resume-ready project description** 🚀
-
